@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Video SDK UI Toolkit JavaScript Sample</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+        <link rel="stylesheet" href="@zoom/videosdk-ui-toolkit/dist/videosdk-ui-toolkit.css">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <main>
+            <div id="join-flow">
+                <h1>Zoom Video SDK Sample JavaScript</h1>
+                <p>User interface offered by the Video SDK UI Toolkit</p>
+        
+                <button onclick="getVideoSDKJWT()">Join Session</button>
+            </div>
+        
+            <div id='sessionContainer'></div>
+        </main>
+        <script src="@zoom/videosdk-ui-toolkit/index.js" type="module"></script>
+        <script src="scripts.js" type="module"></script>
+    </body>
+</html>
