@@ -10,15 +10,15 @@ This repo is an HTML / CSS / JavaScript website that uses the [Zoom Video SDK UI
 
 To get started, clone the repo:
 
-`$ git clone https://github.com/zoom/videosdk-javascript-sample.git`
+`$ git clone https://github.com/zoom/videosdk-ui-toolkit-javascript-sample.git`
 
 ## Setup
 
-1. Once cloned, navigate to the `videosdk-javascript-sample` directory:
+1. Once cloned, navigate to the `videosdk-ui-toolkit-javascript-sample` directory:
 
-   `$ cd videosdk-javascript-sample`
+   `$ cd videosdk-ui-toolkit-javascript-sample`
 
-1. Open the `videosdk-javascript-sample` directory in your code editor.
+1. Open the `videosdk-ui-toolkit-javascript-sample` directory in your code editor.
 
 1. Open the `index.js` file, and enter values for the variables:
 
