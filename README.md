@@ -20,7 +20,7 @@ To get started, clone the repo:
 
 1. Open the `videosdk-ui-toolkit-javascript-sample` directory in your code editor.
 
-1. Open the `index.js` file, and enter values for the variables:
+1. Open the `scripts.js` file, and enter values for the variables:
 
    | Variable                   | Description |
    | -----------------------|-------------|
@@ -48,7 +48,7 @@ To get started, clone the repo:
    var role = 1
    ```
 
-1. Save `index.js`.
+1. Save `scripts.js`.
 
 ## Usage
 

@@ -36,3 +36,7 @@ main #join-flow button {
 main #join-flow button:hover {
     background-color: #2681F2;
 }
+
+#uikit-container-app {
+    min-height: 100vh !important;
+  }
