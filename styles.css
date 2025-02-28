@@ -11,26 +11,26 @@ html, body {
     min-width: 0 !important;
 }
 
-main {
+main #join-flow {
     width: 70%;
     margin: auto;
     text-align: center;
 }
 
 main #join-flow button {
-    margin-top: 20px;
-    background-color: #2D8CFF;
-    color: #ffffff;
-    text-decoration: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 40px;
-    padding-right: 40px;
-    display: inline-block;
-    border-radius: 10px;
-    cursor: pointer;
-    border: none;
-    outline: none;
+        margin-top: 20px;
+        background-color: #2D8CFF;
+        color: #ffffff;
+        text-decoration: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 40px;
+        padding-right: 40px;
+        display: inline-block;
+        border-radius: 10px;
+        cursor: pointer;
+        border: none;
+        outline: none;
 }
 
 main #join-flow button:hover {
@@ -38,5 +38,5 @@ main #join-flow button:hover {
 }
 
 #uikit-container-app {
-    min-height: 100vh !important;
+    height: 100vh;
   }
