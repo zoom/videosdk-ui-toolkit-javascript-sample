@@ -1,5 +1,3 @@
-import uitoolkit from './@zoom/videosdk-ui-toolkit/index.js'
-
 var sessionContainer = document.getElementById('sessionContainer')
 var authEndpoint = ''
 var config = {
