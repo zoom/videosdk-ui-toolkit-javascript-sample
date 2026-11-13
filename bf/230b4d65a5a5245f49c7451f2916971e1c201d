@@ -1,0 +1,14 @@
+index.html
+  h_e85d1ff5b62329 9,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "bf230b4d65a5a5245f49c7451f2916971e1c201d",
+  "prompts": {},
+  "humans": {
+    "h_e85d1ff5b62329": {
+      "author": "Joyce Ma <joyce.ma@zoom.us>"
+    }
+  }
+}
